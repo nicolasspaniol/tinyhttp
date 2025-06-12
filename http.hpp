@@ -2,13 +2,13 @@
 #define HTTP_SERVER_H
 
 // json support (Currently uses MiniJson)
-#define TINYHTTP_JSON
+// #define TINYHTTP_JSON
 
 // websocket support
 #define TINYHTTP_WS
 
 // template integration
-#define TINYHTTP_TEMPLATES
+// #define TINYHTTP_TEMPLATES
 
 // threading support
 #define TINYHTTP_THREADING
